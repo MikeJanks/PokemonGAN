@@ -1,1 +1,1 @@
-# Graphs and generated images go here
+# Graphs and generated images get saved here
