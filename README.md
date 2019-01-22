@@ -1,0 +1,2 @@
+# PokemonGAN
+General Adversarial Network
